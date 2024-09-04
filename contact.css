@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 10%;
+    font-family: 'work sana', Helvetica, sana-serif ;
+    color: #03534b;
+    line-height: 1.5;
+    overflow-x: hidden;
+    background-color: rosybrown;
+}
+nav {
+    width: 140%;
+    position: absolute;
+    top: 0;
+    left: 10;
+    background: rosybrown;
+    padding: 10px 0;
+  }
+  nav ul li{
+    display: inline;
+    margin: 0 10px;
+  }
+  nav ul li a{
+    color:rgb(19, 19, 20);
+    text-decoration: navajowhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4rem;
+  }
+  a:hover{
+    background-color: rgb(31, 228, 228);
+    font-size:150% ;
+    box-shadow: inset 100px 0 0 0 #079ec0;
+    color: white;
+  }
+  img {
+    border-radius: 100%;
+    padding: 10px;
+    width: 40px;
+    display: inline-block;
+    margin-left: right;
+    margin-right: left;
+   }
+   p {
+    text-align: center;
+    color: #060606;
+  }
+  h3 {
+    color: #2c075d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+   }
